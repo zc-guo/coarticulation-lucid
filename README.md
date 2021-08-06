@@ -1,2 +1,2 @@
-# Coarticulation-across-communicative-contexts
-Scripts for an ongoing project on how the extent of coarticulation varies across different communicative contexts.
+# Coarticulation across communicative contexts
+Scripts for an ongoing project on how the extent of coarticulation varies across different communicative contexts. Analysis is being performed on speech recordings from the [LUCID corpus](https://valeriehazan.com/wp/index.php/lucid-corpus-london-ucl-clear-speech-in-interaction/) (available on [SpeechBox](https://speechbox.linguistics.northwestern.edu/#!/home)) using whole-spectrum measures of coarticulation described in [Cychosz et al. (2019)](https://asa.scitation.org/doi/full/10.1121/1.5139201) and [Gerosa et al. (2006)](https://ieeexplore.ieee.org/document/1660040). 
