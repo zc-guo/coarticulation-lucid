@@ -3,3 +3,4 @@ Scripts for an ongoing project on how the extent of coarticulation varies across
 ## Papers & presentations
 Guo, Z.-C., & Smiljanic, R. (2021). Speakers coarticulate less when facing real and imagined communicative difficulties: An analysis of read and spontaneous speech from the LUCID corpus. _Proceedings of INTERSPEECH 2021_ (pp. 4009–4013). http://dx.doi.org/10.21437/Interspeech.2021-1640
 
+Guo, Z.-C., & Smiljanic, R. (2021). Coarticulation across communicative contexts: An acoustic analysis of the LUCID corpus using spectral and temporal measures. _The Journal of the Acoustical Society of America_, _150_(4), A70. https://doi.org/10.1121/10.0007659
